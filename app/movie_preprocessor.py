@@ -40,5 +40,5 @@ if __name__ == "__main__":
     result_df = add_rating(merged_df)
     result_df['poster_path'] = None
     result_df = add_poster(result_df)
-
+    #result
     result_df.to_csv("data/movies_final.csv", index=None)
