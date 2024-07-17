@@ -1,4 +1,6 @@
 ON-GOING PROJECT
+- this project is being updated in gitlab also
+https://gitlab.com/fullstack9000922/fullstack-dqflex
 
 This is movie suggestion website.
 Based on React and Python to code,
